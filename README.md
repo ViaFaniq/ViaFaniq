@@ -9,27 +9,27 @@
 
 ---
 
-### ✨ About Me
+### About Me
 > *"It's not about how many lines of code you write, but how much passion you put into them."*
 
-* ⚡ **Developer & Tech Enthusiast** exploring the depths of Linux and software development.
+* **Developer & Tech Enthusiast** exploring the depths of Linux and software development.
 * Always tinkering with custom system setups, automation scripts, and desktop applications.
 
 ---
 
-### 🛠️ Tech Stack & Weapons of Choice
+### Tech Stack & Weapons of Choice
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,arch,git,github,bash,neovim,vscode,docker&theme=dark" />
 </p>
 
-- **OS:** Arch Linux 🐧
+- **OS:** Arch Linux
 - **Languages:** HTML, CSS, PHP, MySQL, Python (Basic), Bash/Shell
 - **Tools:** Git, Neovim, VS Code, Terminal
 
 ---
 
-### 📊 Stats & Achievements
+### Stats & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViaFaniq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />

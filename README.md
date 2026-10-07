@@ -20,11 +20,11 @@
 ### Tech Stack & Weapons of Choice
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,arch,git,github,bash,neovim,vscode,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,linux,arch,git,github,bash,neovim,vscode,docker&theme=dark" />
 </p>
 
 - **OS:** Arch Linux
-- **Languages:** HTML, CSS, PHP, MySQL, Python (Basic), Bash/Shell
+- **Languages:** HTML, CSS, JS, PHP, MySQL, Python (Basic), Bash/Shell
 - **Tools:** Git, Neovim, VS Code, Terminal
 
 ---

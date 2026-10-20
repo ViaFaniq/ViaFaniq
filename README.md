@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViaFaniq&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&count_private=true" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViaFaniq&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&langs_count=8" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViaFaniq&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=true&langs_count=20" height="192" />
 </p>
 
 ---
